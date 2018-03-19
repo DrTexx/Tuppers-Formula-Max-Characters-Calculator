@@ -55,7 +55,7 @@ def canXfitY(area,contents):
     else:
         return False
 
-no_of_chars = 1
+no_of_chars = 8
 print("no.# of characters in drawing:",no_of_chars)
 print("no.# of spaces in drawing:",no_of_chars)
 no_of_spaces = no_of_chars
